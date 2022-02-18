@@ -9,6 +9,8 @@ fastapi = "*"
 httpx = "*"
 asgi-lifespan = "*"
 pytest-asyncio = "*"
+motor = "*"
+requests = "*"
 
 [dev-packages]
 autopep8 = "*"
